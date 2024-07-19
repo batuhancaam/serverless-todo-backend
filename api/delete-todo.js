@@ -1,5 +1,5 @@
 /**
- * Route: DELETE /todo/{timestamp}
+ * Route: DELETE /todo/t/{timestamp}
  */
 
 const AWS = require('aws-sdk');
